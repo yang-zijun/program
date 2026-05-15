@@ -1,0 +1,17 @@
+body{background: #9e5711;font-size: 75%;font-family: 宋体;}
+ td{font-size:9pt;}
+ p{ font-size:9pt;}
+ li{font-size:9pt;}
+input.buttonface{
+     font-size:9pt; background-color: rgb(209,210,164); BORDER-BOTTOM: rgb(66,66,99) 1px solid; BORDER-LEFT: rgb(66,66,99) 1px solid; BORDER-RIGHT: rgb(66,66,99) 1px solid; BORDER-TOP: rgb(66,66,99) 1px solid;}
+.nu {text-decoration: none; font-family: 宋体;}
+    A:link {text-decoration: none; color: #FF0000}
+    A:visited {text-decoration: none; color: #FF0000}
+    A:hover {text-decoration: underline; color: #FFFF00}
+body{font-size=9pt}
+tH{FONT-SIZE: 9pt}
+.con{  font-family: "宋体"; font-size: 9pt; line-height: 14pt }
+.newfont4 { font-family: "宋体"; font-size: 9pt; filter:dropshadow(color=#D5D5D5,offx=1,offy=1);color:#336600}
+.TextBorder {
+	BORDER-BOTTOM: rgb(66,66,99) 1px solid; BORDER-LEFT: rgb(66,66,99) 1px solid; BORDER-RIGHT: rgb(66,66,99) 1px solid; BORDER-TOP: rgb(66,66,99) 1px solid; FONT-SIZE: 9pt
+}
